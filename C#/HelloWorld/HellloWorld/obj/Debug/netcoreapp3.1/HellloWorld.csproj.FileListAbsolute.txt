@@ -1,0 +1,13 @@
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\bin\Debug\netcoreapp3.1\HellloWorld.exe
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\bin\Debug\netcoreapp3.1\HellloWorld.deps.json
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\bin\Debug\netcoreapp3.1\HellloWorld.runtimeconfig.json
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\bin\Debug\netcoreapp3.1\HellloWorld.runtimeconfig.dev.json
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\bin\Debug\netcoreapp3.1\HellloWorld.dll
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\bin\Debug\netcoreapp3.1\HellloWorld.pdb
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\obj\Debug\netcoreapp3.1\HellloWorld.csprojAssemblyReference.cache
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\obj\Debug\netcoreapp3.1\HellloWorld.AssemblyInfoInputs.cache
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\obj\Debug\netcoreapp3.1\HellloWorld.AssemblyInfo.cs
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\obj\Debug\netcoreapp3.1\HellloWorld.csproj.CoreCompileInputs.cache
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\obj\Debug\netcoreapp3.1\HellloWorld.dll
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\obj\Debug\netcoreapp3.1\HellloWorld.pdb
+C:\Users\sbrug\Documents\GitHub\helloworlds\C#\HelloWorld\HellloWorld\obj\Debug\netcoreapp3.1\HellloWorld.genruntimeconfig.cache
